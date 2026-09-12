@@ -198,6 +198,31 @@ The website uses a modern dark-themed visual design with:
 - Mobile-friendly design
 
 The navigation system transforms the selected section into a full-screen view instead of simply scrolling to another section.
+### Website Screenshots
+
+#### Home Page
+![Home Page](home-screenshot.png)
+
+#### About Section
+![About Section](about-screenshot.png)
+
+#### Skills Section
+![Skills Section](skills-screenshot.png)
+
+#### Projects Section
+![Projects Section](projects-screenshot.png)
+
+#### Education Section
+![Education Section](education-screenshot.png)
+
+#### Achievements Section
+![Achievements Section](achievements-screenshot.png)
+
+#### Experience Section
+![Experience Section](experience-screenshot.png)
+
+#### Contact Section
+![Contact Section](contact-screenshot.png)
 
 ## 14. Project Structure
 
