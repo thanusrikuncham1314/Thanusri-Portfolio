@@ -6,7 +6,9 @@ This portfolio showcases my skills, education, projects, achievements, internshi
 
 ## 🌐 Live Website
 
-Coming soon — deployed using Vercel.
+Live website: https://thanusri-portfolio-45qo3dmzw-thanusri-portfolio.vercel.app
+
+
 
 ## ✨ Features
 
